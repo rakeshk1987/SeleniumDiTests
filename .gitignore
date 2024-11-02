@@ -1,0 +1,18 @@
+# Build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio specific
+.vs/
+
+# Rider specific
+.idea/
+
+# Other files
+*.log
